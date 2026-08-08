@@ -6,6 +6,9 @@ README - Git-Learning
 ##Objetivo:
 -Diseñar y construir una base de datos y página web funcional, moderna y
 útil para el cliente en cuestión.
+##Proceso:
+-Pausado, aprendiendo Git y Github primero.
+
 
 ##Tecnologías usadas:
 -HTML
