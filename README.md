@@ -1,7 +1,7 @@
 README - Git-Learning
 
 ##Descripción:
--Construcción de página y base de datos para cliente.
+-Construcción de página y base de datos para cliente. (objetivo fictisio para los parámtros actuales)
 
 ##Objetivo:
 -Diseñar y construir una base de datos y página web funcional, moderna y
