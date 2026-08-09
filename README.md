@@ -1,18 +1,25 @@
-README - Git-Learning
+#Git-Learning
 
-##Descripción:
--Construcción de página y base de datos para cliente. (objetivo fictisio para los parámtros actuales)
+>Pequeño repositorio para aprender Git y Github
 
-##Objetivo:
--Diseñar y construir una base de datos y página web funcional, moderna y
-útil para el cliente en cuestión.
-##Proceso:
--Pausado, aprendiendo Git y Github primero.
+##Tecnologías
+* [HTML]
 
 
-##Tecnologías usadas:
--HTML
--CSS
--JavaScript
--Python
--SQL
+##Instalación
+
+Sigue estos pasos para clonar y ejecutar el proyecto en tu computadora:
+
+```bash
+git clone https://github.com
+cd tu-repositorio
+npm install
+```
+
+##Contribuir
+
+Toda contribución es bienvenida
+
+
+##Licencia
+Este proyecto no cuenta con licencia
